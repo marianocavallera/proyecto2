@@ -7,7 +7,7 @@ import React from 'react';
 
 const defaultTodos = [
   {text:'sacar turno dermatologa', completed: false},
-  {text:'sacar turno quiropractico', completed: false},
+  {text:'sacar turno quiropractico', completed: true},
   {text:'terminar desafio pasantia',completed: false},
 ];
 

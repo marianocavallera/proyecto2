@@ -11,6 +11,9 @@ div.item{
     justify-content: center;
     
 }
+.completada{
+    text-decoration: line-through;
+}
 
 #eliminar{
     display: inline-block;
@@ -31,6 +34,9 @@ div.item{
 #completar:hover{
     color: rgb(27, 156, 51);
     cursor: pointer;
+}
+.vCompletada{
+    color: rgb(27, 156, 51);
 }
 #tarea:hover{
     color: rgb(121, 121, 121);
